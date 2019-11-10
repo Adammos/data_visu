@@ -1,0 +1,900 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ale",
+				"alien_speed_factor\tstatement"
+			],
+			[
+				"cent",
+				"centerx"
+			],
+			[
+				"UserProfile",
+				"UserProfile\tclass"
+			],
+			[
+				"Comment",
+				"CommentForm\tclass"
+			],
+			[
+				"Comm",
+				"CommentForm"
+			],
+			[
+				"C",
+				"CommentForm\tclass"
+			],
+			[
+				"Tex",
+				"TextInput\tclass"
+			],
+			[
+				"Ca",
+				"CategoryAdmin\tclass"
+			],
+			[
+				"Date",
+				"DateTimeField\tclass"
+			],
+			[
+				"p",
+				"parse_user_input\tfunction"
+			],
+			[
+				"ballCount",
+				"ballCountPara"
+			],
+			[
+				"numbe",
+				"numberOfBalls"
+			],
+			[
+				"col",
+				"collisionDetect"
+			],
+			[
+				"set",
+				"setControls"
+			],
+			[
+				"jso",
+				"jsonObj"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"ins",
+				"insertz"
+			],
+			[
+				"random",
+				"randomValueFromArray"
+			],
+			[
+				"low",
+				"lowOrHi"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"num",
+				"num_categories\tstatement"
+			],
+			[
+				"Do",
+				"DoesNotExist"
+			],
+			[
+				"get_",
+				"get_category_list\tfunction"
+			],
+			[
+				"profi",
+				"profile_registration"
+			],
+			[
+				"catego",
+				"category_name_slug"
+			],
+			[
+				"query",
+				"query_string"
+			],
+			[
+				"get",
+				"get_context_dict\tfunction"
+			],
+			[
+				"context",
+				"context_dict\tstatement"
+			],
+			[
+				"categroy",
+				"category_name_slug"
+			],
+			[
+				"cate",
+				"category_name_slug\tparam"
+			],
+			[
+				"metho",
+				"method_decorator\tfunction"
+			],
+			[
+				"contex",
+				"context_dict"
+			],
+			[
+				"result",
+				"result_list"
+			],
+			[
+				"order",
+				"order_by"
+			],
+			[
+				"resul",
+				"result_list\tstatement"
+			],
+			[
+				"sea",
+				"search_results\tstatement"
+			],
+			[
+				"user",
+				"username_session\tstatement"
+			],
+			[
+				"username",
+				"username_cookie"
+			],
+			[
+				"page",
+				"page_counter\tstatement"
+			],
+			[
+				"last",
+				"last_visit_time\tstatement"
+			],
+			[
+				"cle",
+				"cleaned_data\tstatement"
+			],
+			[
+				"clean",
+				"cleaned_data"
+			],
+			[
+				"Cate",
+				"CategoryForm\tclass"
+			],
+			[
+				"def",
+				"default\tparam"
+			],
+			[
+				"con",
+				"context_dict\tstatement"
+			],
+			[
+				"MEDIA",
+				"MEDIA_URL"
+			],
+			[
+				"conte",
+				"context_dict\tstatement"
+			],
+			[
+				"assert",
+				"assertEqual\tfunction"
+			],
+			[
+				"Base",
+				"BaseTest\tclass"
+			],
+			[
+				"re",
+				"return_zero\tfunction"
+			],
+			[
+				"asser",
+				"asserEqual"
+			],
+			[
+				"asset",
+				"assertEqual\tfunction"
+			],
+			[
+				"USA",
+				"USACurrencyFormatter\tclass"
+			],
+			[
+				"form",
+				"format_date"
+			],
+			[
+				"crea",
+				"create_currency_formatter"
+			],
+			[
+				"forma",
+				"formatter_factory\tstatement"
+			],
+			[
+				"Fran",
+				"FranceFormatterFactory\tclass"
+			],
+			[
+				"Keybo",
+				"KeyboardShortcut\tclass"
+			],
+			[
+				"calcul",
+				"calculate_age\tfunction"
+			],
+			[
+				"Use",
+				"UserGrossQuery\tclass"
+			],
+			[
+				"remaining",
+				"remaining_string\tparam"
+			],
+			[
+				"remain",
+				"remaining_string"
+			],
+			[
+				"remaini",
+				"remaining_string\tparam"
+			],
+			[
+				"rema",
+				"remaining_string\tparam"
+			],
+			[
+				"Con",
+				"ConsoleObserver\tclass"
+			],
+			[
+				"Gzi",
+				"GzipSocket\tclass"
+			],
+			[
+				"SOCK_S",
+				"SOCK_STREAM\tinstance"
+			],
+			[
+				"max_",
+				"max_value\tstatement"
+			],
+			[
+				"input",
+				"input_word\tstatement"
+			],
+			[
+				"Ind",
+				"IndexError\tclass"
+			],
+			[
+				"__",
+				"__abstractmethods__"
+			],
+			[
+				"abs",
+				"abstractproperty\tclass"
+			],
+			[
+				"is",
+				"issubclass\tfunction"
+			],
+			[
+				"time",
+				"timedelta\tclass"
+			],
+			[
+				"ad",
+				"add_todo\tfunction"
+			],
+			[
+				"sho",
+				"show_todos\tfunction"
+			],
+			[
+				"to",
+				"todos\tstatement"
+			],
+			[
+				"s",
+				"search"
+			],
+			[
+				"todo",
+				"todo_manager\tstatement"
+			],
+			[
+				"due",
+				"due_date"
+			],
+			[
+				"date",
+				"datetime\tclass"
+			],
+			[
+				"da",
+				"datetime"
+			],
+			[
+				"ite",
+				"item_id\tstatement"
+			],
+			[
+				"c_",
+				"c_handler"
+			],
+			[
+				"for",
+				"Formatter\tclass"
+			],
+			[
+				"add",
+				"addHandler\tfunction"
+			],
+			[
+				"No",
+				"Notebook"
+			],
+			[
+				"note",
+				"notebook"
+			],
+			[
+				"m",
+				"modify_note"
+			],
+			[
+				"string",
+				"string_formatter\tfunction"
+			],
+			[
+				"fan",
+				"fantasy_athors\tstatement"
+			],
+			[
+				"CapitalIte",
+				"CapitalIterator\tclass"
+			],
+			[
+				"Capital",
+				"CapitalIterable\tclass"
+			],
+			[
+				"my_",
+				"my_iterable\tstatement"
+			],
+			[
+				"Capit",
+				"CapitalIterable\tclass"
+			],
+			[
+				"CapitalI",
+				"CapitalIterator\tclass"
+			],
+			[
+				"As",
+				"AsDictMixin\tclass"
+			],
+			[
+				"class",
+				"classmethod\tfunction"
+			],
+			[
+				"clas",
+				"class_var\tstatement"
+			],
+			[
+				"ABC",
+				"ABCMeta\tclass"
+			],
+			[
+				"NotI",
+				"NotImplementedError\tclass"
+			],
+			[
+				"print",
+				"print_vector\tfunction"
+			],
+			[
+				"ret",
+				"restrieved_data\tstatement"
+			],
+			[
+				"Contac",
+				"ContactEncoder\tclass"
+			],
+			[
+				"cl",
+				"client\tmodule"
+			],
+			[
+				"sor",
+				"sort_num"
+			],
+			[
+				"va",
+				"val_str"
+			],
+			[
+				"val",
+				"val_num"
+			],
+			[
+				"sort",
+				"sort_num\tparam"
+			],
+			[
+				"Warning",
+				"WarningFilter\tclass"
+			],
+			[
+				"ready",
+				"ready_events"
+			],
+			[
+				"collect",
+				"collected_links"
+			],
+			[
+				"character",
+				"characters"
+			],
+			[
+				"charac",
+				"characters"
+			],
+			[
+				"repla",
+				"replace_string"
+			],
+			[
+				"authe",
+				"authenticator"
+			],
+			[
+				"In",
+				"InvalidPassword"
+			],
+			[
+				"Auth",
+				"AuthException"
+			],
+			[
+				"Password",
+				"PasswordTooShort"
+			],
+			[
+				"Assign",
+				"AssignmentGrader"
+			],
+			[
+				"Assi",
+				"Assignment"
+			],
+			[
+				"Intro",
+				"IntroToPython"
+			],
+			[
+				"long",
+				"longest_key"
+			],
+			[
+				"Cont",
+				"ContactList"
+			],
+			[
+				"my",
+				"my_parser"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mpl_square.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "data_visu.sublime-project",
+			"settings":
+			{
+				"buffer_size": 385,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"vi",
+				"Virtualenv: Activate"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Adam/Desktop/projects/data_visu"
+	],
+	"file_history":
+	[
+		"/C/Users/Adam/Desktop/projects/data_visu/data_visu.sublime-project",
+		"/C/Users/Adam/Desktop/projects/alien_invasion/alien_invasion/bullet.py",
+		"/C/Users/Adam/Desktop/projects/alien_invasion/alien_invasion/settings.py",
+		"/C/Users/Adam/Desktop/projects/alien_invasion/alien_invasion/ship.py",
+		"/C/Users/Adam/Desktop/projects/alien_invasion/alien_invasion/alien.py",
+		"/C/Users/Adam/Desktop/projects/alien_invasion/alien_invasion/button.py",
+		"/C/Users/Adam/Desktop/projects/alien_invasion/alien_invasion/scoreboard.py",
+		"/C/Users/Adam/Desktop/projects/alien_invasion/alien_invasion/game_stats.py",
+		"/C/Users/Adam/Desktop/projects/alien_invasion/alien_invasion/alien_invasion.py",
+		"/C/Users/Adam/Desktop/projects/alien_invasion/alien_invasion/game_functions.py",
+		"/C/Users/Adam/Desktop/projects/alien_invasion/alien_invasion.sublime-project",
+		"/C/Users/Adam/Desktop/projects/alien_invasion/.gitignore",
+		"/C/Users/Adam/Desktop/projects/rp-portfolio/projects/templates/project_detail.html",
+		"/C/Users/Adam/Desktop/projects/rp-portfolio/projects/templates/project_index.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/rango/categories.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/rango/bing_search.py",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/bing.key",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/rango/admin.py",
+		"/C/Users/Adam/Desktop/projects/rp-portfolio/personal_portfolio/urls.py",
+		"/C/Users/Adam/Desktop/projects/rp-portfolio/projects/urls.py",
+		"/C/Users/Adam/Desktop/projects/rp-portfolio/projects/views.py",
+		"/C/Users/Adam/Desktop/projects/rp-portfolio/projects/models.py",
+		"/C/Users/Adam/Desktop/projects/rp-portfolio/personal_portfolio/templates/project_index.html",
+		"/C/Users/Adam/Desktop/projects/rp-portfolio/rp-portfolio.sublime-project",
+		"/C/Users/Adam/Desktop/projects/rp-portfolio/personal_portfolio/wsgi.py",
+		"/C/Users/Adam/Desktop/projects/oop_python/event_driven_timer/timer.py",
+		"/C/Users/Adam/Desktop/projects/oop_python/decor/simple_decor.py",
+		"/C/Users/Adam/Desktop/projects/oop_python/decor/client.py",
+		"/C/Users/Adam/Desktop/projects/oop_python/decor/networking.py",
+		"/C/Users/Adam/Desktop/projects/oop_python/decor/log_socket.py",
+		"/C/Users/Adam/Desktop/projects/oop_python/grader/main.py",
+		"/C/Users/Adam/Desktop/projects/oop_python/grader/lessons.py",
+		"/C/Users/Adam/Desktop/projects/oop_python/grader/grader.py",
+		"/C/Users/Adam/Desktop/projects/oop_python/decor/server.py",
+		"/C/Users/Adam/Desktop/projects/oop_python/abstract_class/abstract.py",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/registration/registration_form.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/static/js/bouncing_balls.js",
+		"/C/Users/Adam/Desktop/projects/interviews/array_copy/arrays.py",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/rango/models.py",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/tango_with_django_project/settings.py",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/rango/forms.py",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/rango/base.html",
+		"/C/Users/Adam/Desktop/projects/developer_mozilla/javascript_course/bouncing_balls/style.css",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/rango/index.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/rango/about.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/rango/views.py",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/rango/urls.py",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/rango/category.html",
+		"/C/Users/Adam/Desktop/projects/python_matrix_program/test_main.py",
+		"/C/Users/Adam/Desktop/projects/python_matrix_program/main.py",
+		"/C/Users/Adam/Desktop/projects/python_matrix_program/test.py",
+		"/C/Users/Adam/Desktop/projects/developer_mozilla/javascript_course/async/react_game/index.html",
+		"/C/Users/Adam/Desktop/projects/developer_mozilla/javascript_course/async/index.html",
+		"/C/Users/Adam/Desktop/projects/developer_mozilla/javascript_course/bouncing_balls/main.js",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/rango/bouncing_balls.html",
+		"/C/Users/Adam/Desktop/projects/developer_mozilla/javascript_course/bouncing_balls/index.html",
+		"/C/Users/Adam/Desktop/projects/developer_mozilla/javascript_course/async/setinterval-clock.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/rango/random_tiles.html",
+		"/C/Users/Adam/Desktop/projects/developer_mozilla/javascript_course/oop/oojs-class-inheritance-start.html",
+		"/C/Users/Adam/Desktop/projects/developer_mozilla/javascript_course/json_chapter/style.css",
+		"/C/Users/Adam/Desktop/projects/developer_mozilla/javascript_course/json_chapter/superheroes.json",
+		"/C/Users/Adam/Desktop/projects/developer_mozilla/javascript_course/json_chapter/heroes.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/rango/tests.py",
+		"/C/Users/Adam/Desktop/projects/developer_mozilla/javascript_course/oop/oojs-class-inheritance-Cpp_style.html",
+		"/C/Users/Adam/Desktop/projects/oop_python/cashe/cashe.py",
+		"/C/Users/Adam/Desktop/projects/developer_mozilla/javascript_course/oop/oojs-class-further-exercises.html",
+		"/C/Users/Adam/Desktop/projects/developer_mozilla/javascript_course/oop/oojs.html",
+		"/C/Users/Adam/Desktop/projects/developer_mozilla/javascript_course/first_steps/gallery-start/gallery-start/index.html",
+		"/C/Users/Adam/Desktop/projects/developer_mozilla/javascript_course/first_steps/gallery-start/gallery-start/style.css",
+		"/C/Users/Adam/Desktop/projects/developer_mozilla/javascript_course/first_steps/gallery-start/gallery-start/main.js",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/rango/guess_number_game.html",
+		"/C/Users/Adam/Desktop/projects/developer_mozilla/javascript_course/first_steps/useful_eventhandlers.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/rango/page_listing.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/static/js/rango-ajax.js",
+		"/C/Users/Adam/Desktop/projects/developer_mozilla/javascript_course/first_steps/function_scopes.html",
+		"/C/Users/Adam/Desktop/projects/developer_mozilla/javascript_course/first_steps/function_start.html",
+		"/C/Users/Adam/Desktop/projects/developer_mozilla/javascript_course/first_steps/function_library.html",
+		"/C/Users/Adam/Desktop/projects/developer_mozilla/javascript_course/first_steps/random_color_eventhandlerproperty.html",
+		"/C/Users/Adam/Desktop/projects/regexp/script.py",
+		"/C/Users/Adam/Desktop/projects/parent_directory/notebook.py",
+		"/C/Users/Adam/Desktop/projects/parent_directory/menu.py",
+		"/C/Users/Adam/Desktop/projects/jsons/jsons.py",
+		"/C/Users/Adam/Desktop/projects/find_and_replace/zipreplace.py",
+		"/C/Users/Adam/Desktop/projects/cashe/cashe.py",
+		"/C/Users/Adam/Desktop/projects/auth/auth.py",
+		"/C/Users/Adam/Desktop/projects/abstract_factory_pattern/formatter_factory.py",
+		"/C/Users/Adam/Desktop/projects/abstract_class/abstract.py",
+		"/C/Users/Adam/Desktop/projects/mozilla_web_dev/silly_generator/raw_text.txt",
+		"/C/Users/Adam/Desktop/projects/mozilla_web_dev/silly_generator/index.html",
+		"/C/Users/Adam/Desktop/projects/mozilla_web_dev/silly_generator/main.js",
+		"/C/Users/Adam/Desktop/projects/mozilla_web_dev/guess_number_game.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/populate_rango.py",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/rango/templatetags/rango_template_tags.py",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/static/js/rango-jquery.js",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/tango_with_django_project/urls.py",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/rango/list_profiles.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/rango/profile.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/static/js/rango-query.js",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/static/css/jquery-3.3.1.min.js",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/static/js/dashboard.js",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/registration/registration_complete.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/rango/profile_registration.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/rango/search.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/rango/add_category.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/registration/profile_registration.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/rango/add_page.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/registration/login.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/registration/password_change_form.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/registration/password_change_done.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/registration/logout.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/rango/base-old.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/rango/bootstrap-base.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/static/css/dashboard.css",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/registration/registration_closed.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/rango/session_page.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/rango/cookie_page.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/rango/register.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/templates/rango/login.html",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/rango/templatetags/__init__.py",
+		"/C/Users/Adam/Desktop/projects/rango_project/rango.sublime-project",
+		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/Anaconda/rango.sublime-project",
+		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Adam/Desktop/projects/rango_project/tango_with_django_project/rango/migrations/0001_initial.py",
+		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/Djaneiro/Settings/Python (Django).sublime-settings",
+		"/C/Users/Adam/Desktop/projects/tango_with_django_project/rango/urls.py",
+		"/C/Users/Adam/Desktop/projects/tango_with_django_project/tango_with_django_project/settings.py",
+		"/C/Users/Adam/Desktop/projects/tango_with_django_project/rango/views.py",
+		"/C/Users/Adam/Desktop/projects/tango_with_django_project/tango_with_django_project/urls.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mpl_square.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "data_visu.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								331,
+								331
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 10.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.anaconda_documentation":
+	{
+		"height": 108.0
+	},
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "data_visu.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 445.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
